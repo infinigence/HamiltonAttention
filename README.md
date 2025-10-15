@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./docs/pics/LOGO.png" width="75" height="50">
+<img src="./docs/pics/LOGO.png" width="175" height="155">
 
 # ***Hamilton Attention*** 
 
